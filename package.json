@@ -22,6 +22,6 @@
     "socket.io": "0.9.6",
     "connect": "~2.15.0"
   },
-  "author": "Boringtaoxh@gmail.com",
+  "author": "Boringtao",
   "license": "BSD-2-Clause"
 }
